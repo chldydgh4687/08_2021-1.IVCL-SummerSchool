@@ -17,8 +17,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 | 파트1 | Introduction | [PDF]() |  |  |
 | 파트2 | Intra Prediction | [PDF]() |  |  |
-| 파트3 | Inter Prediction | [PDF]() |  |  |
-| 파트4 | Inter Prediction | [PDF]() |  |  |
+| 파트3 | Inter Prediction-1 | [PDF]() |  |  |
+| 파트4 | Inter Prediction-2 | [PDF]() |  |  |
 | 파트5 | Quantization,Transform | [PDF]() |  |  |     
 
 
