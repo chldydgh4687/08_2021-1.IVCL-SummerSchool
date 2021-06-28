@@ -1,6 +1,6 @@
 ## 2021-1.IVCL-SummerSchool
 
-### 스케줄링
+### SR Tutorials
 
 | ID | Cource | LectureNote | Date |  Video | 실습 | 
 |:---:|:---:|:---:|:---:|:---:|:---:| 
@@ -11,10 +11,5 @@
 | 파트2 | 캐글 도전하기(회귀) |  | 2020.12.22 | [Youtube](https://youtu.be/cVde43HB8qc) | [아파트 경매가격 예측문제](https://www.kaggle.com/c/kisti-sejong-winterschool-p4) |
 
 
-### 기계학습/딥러닝 시작하기
-- [세종대학교 2020학년도 2학기 기계학습 수업](https://github.com/sejongresearch/2020.MachineLearning)
-- [세종대학교 2020학년도 1학기 인공지능 수업](https://github.com/sejongresearch/2020.Spring.AI)
-
-
-### 추천도서
-- [Introduction to Machine Learning with Python](https://github.com/dlsucomet/MLResources/blob/master/books/%5BML%5D%20Introduction%20to%20Machine%20Learning%20with%20Python%20(2017).pdf). [코드](https://github.com/amueller/introduction_to_ml_with_python) 
+### HEVC
+- [고효율 영상 부호화 기술 HEVC 표준 기술의 이해](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156004042&orderClick=LAG&Kc=)
