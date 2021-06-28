@@ -1,6 +1,6 @@
 ## 2021-1.IVCL-SummerSchool
 
-### 강의계획서
+### 스케줄링
 
 | ID | Cource | LectureNote | Date |  Video | 실습 | 
 |:---:|:---:|:---:|:---:|:---:|:---:| 
