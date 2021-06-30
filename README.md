@@ -9,7 +9,7 @@
 | 파트2 | DCSCN 돌려보기, 구조 파악 | [PDF]() |  |  |
 | 파트3 | DCSCN 구현 | [PDF]() |  |  |
 | 파트4 | 다양한 네트워크, 성능 향상 | [PDF]() |  |  |
-| 파트5 | 비디오 코딩에서의 적용 | [PDF]() |  |  |     
+| +a | 비디오 코딩에서의 적용 | [PDF]() |  |  |     
      
      
 ### HEVC Contents  
@@ -19,7 +19,7 @@
 | 파트2 | Intra Prediction | [PDF]() |  |  |
 | 파트3 | Inter Prediction-1 | [PDF]() |  |  |
 | 파트4 | Inter Prediction-2 | [PDF]() |  |  |
-| 파트5 | Quantization,Transform | [PDF]() |  |  |     
+| +a | Quantization,Transform | [PDF]() |  |  |     
 
 
 ### [참고 문헌]
