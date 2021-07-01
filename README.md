@@ -13,13 +13,13 @@
      
      
 ### HEVC Contents  
-| ID | Course | LectureNote | Date | 실습 |
-|:---:|:---:|:---:|:---:|:---:|
-| 파트1 | Introduction | [PDF]() |  |  |
-| 파트2 | Intra Prediction | [PDF]() |  |  |
-| 파트3 | Inter Prediction-1 | [PDF]() |  |  |
-| 파트4 | Inter Prediction-2 | [PDF]() |  |  |
-| +a | Quantization,Transform | [PDF]() |  |  |     
+| ID | Course | LectureNote | Date |
+|:---:|:---:|:---:|:---:|
+| 파트1 | Introduction | [PDF]() |  | 
+| 파트2 | Intra Prediction | [PDF]() |  |
+| 파트3 | Inter Prediction-1 | [PDF]() |  |
+| 파트4 | Inter Prediction-2 | [PDF]() |  |
+| +a | Quantization,Transform | [PDF]() |  |     
 
 
 ### [참고 문헌]
