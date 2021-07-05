@@ -1,5 +1,12 @@
 ## 2021-1.IVCL-SummerSchool
-    
+
+### HEVC Contents  
+| ID | Course |
+|:---:|:---:|
+| 파트1 | Introduction |  
+| 파트2 | Intra Prediction | 
+| 파트3 | Inter Prediction-1 | 
+| 파트4 | Inter Prediction-2 |
      
 ### SuperResolution Tutorials  
     
@@ -10,13 +17,7 @@
 | 파트3 | Simple-DCSCN | [PDF] |  |  |
 | 파트4 | 비디오 코딩에서의 적용 | [PDF] |  |  |     
      
-### HEVC Contents  
-| ID | Course |
-|:---:|:---:|
-| 파트1 | Introduction |  
-| 파트2 | Intra Prediction | 
-| 파트3 | Inter Prediction-1 | 
-| 파트4 | Inter Prediction-2 |
+
 
 
 ### [참고 문헌]
