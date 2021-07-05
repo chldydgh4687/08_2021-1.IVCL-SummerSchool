@@ -5,9 +5,9 @@
     
 | ID | Course | LectureNote | Date | 실습 |
 |:---:|:---:|:---:|:---:|:---:|
-| 파트1 | CNN / Classification | [[PDF]]() |  |  |
+| 파트1 | CNN / Classification / Kaggle | [[PDF]]() | 2021-07-07 | [[MNIST]](https://www.kaggle.com/t/a7679df582094f5cac17b5e21552cb03) / [Dogs&Cats(실습1)] |
 | 파트2 | SuperResolution | [PDF] |  |  |
-| 파트3 | DCSCN 실행 및 변경 | [PDF] |  |  |
+| 파트3 | Simple-DCSCN | [PDF] |  |  |
 | 파트4 | 비디오 코딩에서의 적용 | [PDF] |  |  |     
      
 ### HEVC Contents  
