@@ -1,7 +1,7 @@
 ## 2021-1.IVCL-SummerSchool
     
      
-### SR Tutorials  
+### SuperResolution Tutorials  
     
 | ID | Course | LectureNote | Date | 실습 |
 |:---:|:---:|:---:|:---:|:---:|
