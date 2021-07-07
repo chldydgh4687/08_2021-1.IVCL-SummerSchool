@@ -1,10 +1,12 @@
 # 2021-1.IVCL-SummerSchool
 
+--- 
  This course is for SummerInternship Program of the Intelligence Visual Computing Lab. In this vocation, We 'll deal with HEVC(H.265), CNN and learn more deeply SuperResolutions. And There is purpose helps students to encourage video-understanding about HEVC(H.265) and making a model in a SuperResolutions.   
  ![HEVC_main_1024x1024](https://user-images.githubusercontent.com/11037567/124721933-88c03480-df44-11eb-8635-3a3d7a0970ca.jpg)
 
 
 # Schedule
+---
 
 ### HEVC Contents  
 | ID | Course | Date |
@@ -24,6 +26,7 @@
 | Part4 | Simple-DCSCN | [PDF] |  |  |     
      
 
+---
 
 
 ### [참고 문헌]
